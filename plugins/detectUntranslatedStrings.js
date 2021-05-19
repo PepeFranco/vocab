@@ -108,4 +108,4 @@ function detectUntranslatedStrings() {
   };
 }
 
-module.exports = myPlugin;
+module.exports = detectUntranslatedStrings;
